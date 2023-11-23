@@ -1,7 +1,7 @@
 
-# Sneaker Webpage using React JS (Vite)
+#Sneaker Webpage using React JS (Vite)
 
-This project is a simple webpage showcasing a sneaker built using React JS with Vite. It demonstrates the basics of creating a responsive and dynamic webpage for showcasing a product.
+This project is a simple webpage I made  showcasing a sneaker built using React JS with Vite. It demonstrates the basics of creating a responsive and dynamic webpage for showcasing a product.
 
 ### Screenshots
 ![Screenshot 1](public/demo.png)
